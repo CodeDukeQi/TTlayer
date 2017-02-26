@@ -26,7 +26,7 @@
     self.label = [UILabel new];
     self.label.numberOfLines = 0;
     self.userInteractionEnabled = NO;
-    self.label.text = @"部分借用了其他人的源码。探探的效果";
+    self.label.text = @"探探的效果";
     [self addSubview:self.label];
 }
 
